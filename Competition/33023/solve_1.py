@@ -12,3 +12,4 @@ for i in range(n):
             elif result[i][j] < result[i-1][j] and result[i][j] < result[i+1][j] and result[i][j] > result[i][j-1] and result[i][j] > result[i][j+1]:
                 counter += 1
 print(counter)
+# Mohammad YousefiPour - Github.com/myp79
