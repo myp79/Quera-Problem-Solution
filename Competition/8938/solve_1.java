@@ -1,9 +1,9 @@
 import java.util.Scanner;
 
 public class solve_1 {
+  static Scanner scanner = new Scanner(System.in);
 
   public static void main(String[] args) {
-    Scanner scanner = new Scanner(System.in);
     int m = scanner.nextInt();
     int n = scanner.nextInt();
     int sum = 0;
