@@ -20,7 +20,7 @@ You can add you solution by these rules:
 
 - If you use somthing uncommen like data structues and algorithms, comment your link of solution in your solving file.
 
-## makefile
+## Makefile
 The makefile.py is use for making test case for who want making question.
 Run the program and enter a number for making how many test case that you want.
 
