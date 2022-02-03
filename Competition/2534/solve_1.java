@@ -21,3 +21,6 @@ public class solve_1 {
         System.out.println(sum2);
     }
 }
+/**
+ * @author Mohammad YousefiPour - Github.com/myp79
+ */
