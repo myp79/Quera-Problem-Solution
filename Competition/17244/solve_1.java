@@ -13,5 +13,5 @@ public class solve_1 {
   }
 }
 /**
- * @author Mohammad YousefiPour - Github.cosdm/myp79
+ * @author Mohammad YousefiPour - Github.com/myp79
  */
