@@ -28,7 +28,7 @@ Our problems link are avilable in this table. You can click on problem to redire
                 https://quera.org/problemset/2439/
             </td>
             <td align="center">
-                address
+                <a href='https://github.com/myp79/Quera-Problem-Solution/tree/Develope/Competition/2439'>Answer</a>
             </td>
         </tr>
             <tr>
@@ -42,7 +42,7 @@ Our problems link are avilable in this table. You can click on problem to redire
                 https://quera.org/problemset/2529/
             </td>
             <td align="center">
-                address
+                <a href='https://github.com/myp79/Quera-Problem-Solution/tree/Develope/Competition/2529'>Answer</a>
             </td>
         </tr>
             <tr>
@@ -56,7 +56,7 @@ Our problems link are avilable in this table. You can click on problem to redire
                 https://quera.org/problemset/2530/
             </td>
             <td align="center">
-                address
+                <a href='https://github.com/myp79/Quera-Problem-Solution/tree/Develope/Competition/2530'>Answer</a>
             </td>
         </tr>
             <tr>
@@ -70,7 +70,7 @@ Our problems link are avilable in this table. You can click on problem to redire
                 https://quera.org/problemset/2534/
             </td>
             <td align="center">
-                address
+                <a href='https://github.com/myp79/Quera-Problem-Solution/tree/Develope/Competition/2534'>Answer</a>
             </td>
         </tr>
             <tr>
@@ -84,7 +84,7 @@ Our problems link are avilable in this table. You can click on problem to redire
                 https://quera.org/problemset/2551/
             </td>
             <td align="center">
-                address
+                <a href='https://github.com/myp79/Quera-Problem-Solution/tree/Develope/Competition/2551'>Answer</a>
             </td>
         </tr>
             <tr>
@@ -98,7 +98,7 @@ Our problems link are avilable in this table. You can click on problem to redire
                 https://quera.org/problemset/2636/
             </td>
             <td align="center">
-                address
+                <a href='https://github.com/myp79/Quera-Problem-Solution/tree/Develope/Competition/2636'>Answer</a>
             </td>
         </tr>
             <tr>
@@ -112,7 +112,7 @@ Our problems link are avilable in this table. You can click on problem to redire
                 https://quera.org/problemset/2637/
             </td>
             <td align="center">
-                address
+                <a href='https://github.com/myp79/Quera-Problem-Solution/tree/Develope/Competition/2637'>Answer</a>
             </td>
         </tr>
             <tr>
@@ -126,7 +126,7 @@ Our problems link are avilable in this table. You can click on problem to redire
                 https://quera.org/problemset/2659/
             </td>
             <td align="center">
-                address
+                <a href='https://github.com/myp79/Quera-Problem-Solution/tree/Develope/Competition/2659'>Answer</a>
             </td>
         </tr>
             <tr>
@@ -140,7 +140,7 @@ Our problems link are avilable in this table. You can click on problem to redire
                 https://quera.org/problemset/2705/
             </td>
             <td align="center">
-                address
+                <a href='https://github.com/myp79/Quera-Problem-Solution/tree/Develope/Competition/2705'>Answer</a>
             </td>
         </tr>
             <tr>
@@ -154,7 +154,7 @@ Our problems link are avilable in this table. You can click on problem to redire
                 https://quera.org/problemset/2794/
             </td>
             <td align="center">
-                address
+                <a href='https://github.com/myp79/Quera-Problem-Solution/tree/Develope/Competition/2794'>Answer</a>
             </td>
         </tr>
             <tr>
@@ -168,7 +168,7 @@ Our problems link are avilable in this table. You can click on problem to redire
                 https://quera.org/problemset/2885/
             </td>
             <td align="center">
-                address
+                <a href='https://github.com/myp79/Quera-Problem-Solution/tree/Develope/Competition/2885'>Answer</a>
             </td>
         </tr>
             <tr>
@@ -182,7 +182,7 @@ Our problems link are avilable in this table. You can click on problem to redire
                 https://quera.org/problemset/2886/
             </td>
             <td align="center">
-                address
+                <a href='https://github.com/myp79/Quera-Problem-Solution/tree/Develope/Competition/2886'>Answer</a>
             </td>
         </tr>
             <tr>
@@ -196,7 +196,7 @@ Our problems link are avilable in this table. You can click on problem to redire
                 https://quera.org/problemset/3029/
             </td>
             <td align="center">
-                address
+                <a href='https://github.com/myp79/Quera-Problem-Solution/tree/Develope/Competition/3029'>Answer</a>
             </td>
         </tr>
             <tr>
@@ -210,7 +210,7 @@ Our problems link are avilable in this table. You can click on problem to redire
                 https://quera.org/problemset/3107/
             </td>
             <td align="center">
-                address
+                <a href='https://github.com/myp79/Quera-Problem-Solution/tree/Develope/Competition/3107'>Answer</a>
             </td>
         </tr>
             <tr>
@@ -224,7 +224,7 @@ Our problems link are avilable in this table. You can click on problem to redire
                 https://quera.org/problemset/3403/
             </td>
             <td align="center">
-                address
+                <a href='https://github.com/myp79/Quera-Problem-Solution/tree/Develope/Competition/3403'>Answer</a>
             </td>
         </tr>
             <tr>
@@ -238,7 +238,7 @@ Our problems link are avilable in this table. You can click on problem to redire
                 https://quera.org/problemset/3404/
             </td>
             <td align="center">
-                address
+                <a href='https://github.com/myp79/Quera-Problem-Solution/tree/Develope/Competition/3404'>Answer</a>
             </td>
         </tr>
             <tr>
@@ -252,7 +252,7 @@ Our problems link are avilable in this table. You can click on problem to redire
                 https://quera.org/problemset/3405/
             </td>
             <td align="center">
-                address
+                <a href='https://github.com/myp79/Quera-Problem-Solution/tree/Develope/Competition/3405'>Answer</a>
             </td>
         </tr>
             <tr>
@@ -266,7 +266,7 @@ Our problems link are avilable in this table. You can click on problem to redire
                 https://quera.org/problemset/3406/
             </td>
             <td align="center">
-                address
+                <a href='https://github.com/myp79/Quera-Problem-Solution/tree/Develope/Competition/3406'>Answer</a>
             </td>
         </tr>
             <tr>
@@ -280,7 +280,7 @@ Our problems link are avilable in this table. You can click on problem to redire
                 https://quera.org/problemset/3407/
             </td>
             <td align="center">
-                address
+                <a href='https://github.com/myp79/Quera-Problem-Solution/tree/Develope/Competition/3407'>Answer</a>
             </td>
         </tr>
             <tr>
@@ -294,7 +294,7 @@ Our problems link are avilable in this table. You can click on problem to redire
                 https://quera.org/problemset/3408/
             </td>
             <td align="center">
-                address
+                <a href='https://github.com/myp79/Quera-Problem-Solution/tree/Develope/Competition/3408'>Answer</a>
             </td>
         </tr>
             <tr>
@@ -308,7 +308,7 @@ Our problems link are avilable in this table. You can click on problem to redire
                 https://quera.org/problemset/3409/
             </td>
             <td align="center">
-                address
+                <a href='https://github.com/myp79/Quera-Problem-Solution/tree/Develope/Competition/3409'>Answer</a>
             </td>
         </tr>
             <tr>
@@ -322,7 +322,7 @@ Our problems link are avilable in this table. You can click on problem to redire
                 https://quera.org/problemset/3410/
             </td>
             <td align="center">
-                address
+                <a href='https://github.com/myp79/Quera-Problem-Solution/tree/Develope/Competition/3410'>Answer</a>
             </td>
         </tr>
             <tr>
@@ -336,7 +336,7 @@ Our problems link are avilable in this table. You can click on problem to redire
                 https://quera.org/problemset/3412/
             </td>
             <td align="center">
-                address
+                <a href='https://github.com/myp79/Quera-Problem-Solution/tree/Develope/Competition/3412'>Answer</a>
             </td>
         </tr>
             <tr>
@@ -350,7 +350,7 @@ Our problems link are avilable in this table. You can click on problem to redire
                 https://quera.org/problemset/3414/
             </td>
             <td align="center">
-                address
+                <a href='https://github.com/myp79/Quera-Problem-Solution/tree/Develope/Competition/3414'>Answer</a>
             </td>
         </tr>
             <tr>
@@ -364,7 +364,7 @@ Our problems link are avilable in this table. You can click on problem to redire
                 https://quera.org/problemset/3429/
             </td>
             <td align="center">
-                address
+                <a href='https://github.com/myp79/Quera-Problem-Solution/tree/Develope/Competition/3429'>Answer</a>
             </td>
         </tr>
             <tr>
@@ -378,7 +378,7 @@ Our problems link are avilable in this table. You can click on problem to redire
                 https://quera.org/problemset/3430/
             </td>
             <td align="center">
-                address
+                <a href='https://github.com/myp79/Quera-Problem-Solution/tree/Develope/Competition/3430'>Answer</a>
             </td>
         </tr>
             <tr>
@@ -392,7 +392,7 @@ Our problems link are avilable in this table. You can click on problem to redire
                 https://quera.org/problemset/3537/
             </td>
             <td align="center">
-                address
+                <a href='https://github.com/myp79/Quera-Problem-Solution/tree/Develope/Competition/3537'>Answer</a>
             </td>
         </tr>
             <tr>
@@ -406,7 +406,7 @@ Our problems link are avilable in this table. You can click on problem to redire
                 https://quera.org/problemset/3538/
             </td>
             <td align="center">
-                address
+                <a href='https://github.com/myp79/Quera-Problem-Solution/tree/Develope/Competition/3538'>Answer</a>
             </td>
         </tr>
             <tr>
@@ -420,7 +420,7 @@ Our problems link are avilable in this table. You can click on problem to redire
                 https://quera.org/problemset/3539/
             </td>
             <td align="center">
-                address
+                <a href='https://github.com/myp79/Quera-Problem-Solution/tree/Develope/Competition/3539'>Answer</a>
             </td>
         </tr>
             <tr>
@@ -434,7 +434,7 @@ Our problems link are avilable in this table. You can click on problem to redire
                 https://quera.org/problemset/3541/
             </td>
             <td align="center">
-                address
+                <a href='https://github.com/myp79/Quera-Problem-Solution/tree/Develope/Competition/3541'>Answer</a>
             </td>
         </tr>
             <tr>
@@ -448,7 +448,7 @@ Our problems link are avilable in this table. You can click on problem to redire
                 https://quera.org/problemset/4065/
             </td>
             <td align="center">
-                address
+                <a href='https://github.com/myp79/Quera-Problem-Solution/tree/Develope/Competition/4065'>Answer</a>
             </td>
         </tr>
             <tr>
@@ -462,7 +462,7 @@ Our problems link are avilable in this table. You can click on problem to redire
                 https://quera.org/problemset/4066/
             </td>
             <td align="center">
-                address
+                <a href='https://github.com/myp79/Quera-Problem-Solution/tree/Develope/Competition/4066'>Answer</a>
             </td>
         </tr>
             <tr>
@@ -476,7 +476,7 @@ Our problems link are avilable in this table. You can click on problem to redire
                 https://quera.org/problemset/4067/
             </td>
             <td align="center">
-                address
+                <a href='https://github.com/myp79/Quera-Problem-Solution/tree/Develope/Competition/4067'>Answer</a>
             </td>
         </tr>
             <tr>
@@ -490,7 +490,7 @@ Our problems link are avilable in this table. You can click on problem to redire
                 https://quera.org/problemset/6082/
             </td>
             <td align="center">
-                address
+                <a href='https://github.com/myp79/Quera-Problem-Solution/tree/Develope/Competition/6082'>Answer</a>
             </td>
         </tr>
             <tr>
@@ -504,7 +504,7 @@ Our problems link are avilable in this table. You can click on problem to redire
                 https://quera.org/problemset/6192/
             </td>
             <td align="center">
-                address
+                <a href='https://github.com/myp79/Quera-Problem-Solution/tree/Develope/Competition/6192'>Answer</a>
             </td>
         </tr>
             <tr>
@@ -518,7 +518,7 @@ Our problems link are avilable in this table. You can click on problem to redire
                 https://quera.org/problemset/6193/
             </td>
             <td align="center">
-                address
+                <a href='https://github.com/myp79/Quera-Problem-Solution/tree/Develope/Competition/6193'>Answer</a>
             </td>
         </tr>
             <tr>
@@ -532,7 +532,7 @@ Our problems link are avilable in this table. You can click on problem to redire
                 https://quera.org/problemset/6374/
             </td>
             <td align="center">
-                address
+                <a href='https://github.com/myp79/Quera-Problem-Solution/tree/Develope/Competition/6374'>Answer</a>
             </td>
         </tr>
             <tr>
@@ -546,7 +546,7 @@ Our problems link are avilable in this table. You can click on problem to redire
                 https://quera.org/problemset/6580/
             </td>
             <td align="center">
-                address
+                <a href='https://github.com/myp79/Quera-Problem-Solution/tree/Develope/Competition/6580'>Answer</a>
             </td>
         </tr>
             <tr>
@@ -560,7 +560,7 @@ Our problems link are avilable in this table. You can click on problem to redire
                 https://quera.org/problemset/7609/
             </td>
             <td align="center">
-                address
+                <a href='https://github.com/myp79/Quera-Problem-Solution/tree/Develope/Competition/7609'>Answer</a>
             </td>
         </tr>
             <tr>
@@ -574,7 +574,7 @@ Our problems link are avilable in this table. You can click on problem to redire
                 https://quera.org/problemset/7998/
             </td>
             <td align="center">
-                address
+                <a href='https://github.com/myp79/Quera-Problem-Solution/tree/Develope/Competition/7998'>Answer</a>
             </td>
         </tr>
             <tr>
@@ -588,7 +588,7 @@ Our problems link are avilable in this table. You can click on problem to redire
                 https://quera.org/problemset/8838/
             </td>
             <td align="center">
-                address
+                <a href='https://github.com/myp79/Quera-Problem-Solution/tree/Develope/Competition/8838'>Answer</a>
             </td>
         </tr>
             <tr>
@@ -602,7 +602,7 @@ Our problems link are avilable in this table. You can click on problem to redire
                 https://quera.org/problemset/8901/
             </td>
             <td align="center">
-                address
+                <a href='https://github.com/myp79/Quera-Problem-Solution/tree/Develope/Competition/8901'>Answer</a>
             </td>
         </tr>
             <tr>
@@ -616,7 +616,7 @@ Our problems link are avilable in this table. You can click on problem to redire
                 https://quera.org/problemset/8938/
             </td>
             <td align="center">
-                address
+                <a href='https://github.com/myp79/Quera-Problem-Solution/tree/Develope/Competition/8938'>Answer</a>
             </td>
         </tr>
             <tr>
@@ -630,7 +630,7 @@ Our problems link are avilable in this table. You can click on problem to redire
                 https://quera.org/problemset/9109/
             </td>
             <td align="center">
-                address
+                <a href='https://github.com/myp79/Quera-Problem-Solution/tree/Develope/Competition/9109'>Answer</a>
             </td>
         </tr>
             <tr>
@@ -644,7 +644,7 @@ Our problems link are avilable in this table. You can click on problem to redire
                 https://quera.org/problemset/9110/
             </td>
             <td align="center">
-                address
+                <a href='https://github.com/myp79/Quera-Problem-Solution/tree/Develope/Competition/9110'>Answer</a>
             </td>
         </tr>
             <tr>
@@ -658,7 +658,7 @@ Our problems link are avilable in this table. You can click on problem to redire
                 https://quera.org/problemset/10162/
             </td>
             <td align="center">
-                address
+                <a href='https://github.com/myp79/Quera-Problem-Solution/tree/Develope/Competition/10162'>Answer</a>
             </td>
         </tr>
             <tr>
@@ -672,7 +672,7 @@ Our problems link are avilable in this table. You can click on problem to redire
                 https://quera.org/problemset/10230/
             </td>
             <td align="center">
-                address
+                <a href='https://github.com/myp79/Quera-Problem-Solution/tree/Develope/Competition/10230'>Answer</a>
             </td>
         </tr>
             <tr>
@@ -686,7 +686,7 @@ Our problems link are avilable in this table. You can click on problem to redire
                 https://quera.org/problemset/10231/
             </td>
             <td align="center">
-                address
+                <a href='https://github.com/myp79/Quera-Problem-Solution/tree/Develope/Competition/10231'>Answer</a>
             </td>
         </tr>
             <tr>
@@ -700,7 +700,7 @@ Our problems link are avilable in this table. You can click on problem to redire
                 https://quera.org/problemset/10233/
             </td>
             <td align="center">
-                address
+                <a href='https://github.com/myp79/Quera-Problem-Solution/tree/Develope/Competition/10233'>Answer</a>
             </td>
         </tr>
             <tr>
@@ -714,7 +714,7 @@ Our problems link are avilable in this table. You can click on problem to redire
                 https://quera.org/problemset/10325/
             </td>
             <td align="center">
-                address
+                <a href='https://github.com/myp79/Quera-Problem-Solution/tree/Develope/Competition/10325'>Answer</a>
             </td>
         </tr>
             <tr>
@@ -728,7 +728,7 @@ Our problems link are avilable in this table. You can click on problem to redire
                 https://quera.org/problemset/10326/
             </td>
             <td align="center">
-                address
+                <a href='https://github.com/myp79/Quera-Problem-Solution/tree/Develope/Competition/10326'>Answer</a>
             </td>
         </tr>
             <tr>
@@ -742,7 +742,7 @@ Our problems link are avilable in this table. You can click on problem to redire
                 https://quera.org/problemset/10327/
             </td>
             <td align="center">
-                address
+                <a href='https://github.com/myp79/Quera-Problem-Solution/tree/Develope/Competition/10327'>Answer</a>
             </td>
         </tr>
             <tr>
@@ -756,7 +756,7 @@ Our problems link are avilable in this table. You can click on problem to redire
                 https://quera.org/problemset/10636/
             </td>
             <td align="center">
-                address
+                <a href='https://github.com/myp79/Quera-Problem-Solution/tree/Develope/Competition/10636'>Answer</a>
             </td>
         </tr>
             <tr>
@@ -770,7 +770,7 @@ Our problems link are avilable in this table. You can click on problem to redire
                 https://quera.org/problemset/14580/
             </td>
             <td align="center">
-                address
+                <a href='https://github.com/myp79/Quera-Problem-Solution/tree/Develope/Competition/14580'>Answer</a>
             </td>
         </tr>
             <tr>
@@ -784,7 +784,7 @@ Our problems link are avilable in this table. You can click on problem to redire
                 https://quera.org/problemset/14581/
             </td>
             <td align="center">
-                address
+                <a href='https://github.com/myp79/Quera-Problem-Solution/tree/Develope/Competition/14581'>Answer</a>
             </td>
         </tr>
             <tr>
@@ -798,7 +798,7 @@ Our problems link are avilable in this table. You can click on problem to redire
                 https://quera.org/problemset/15124/
             </td>
             <td align="center">
-                address
+                <a href='https://github.com/myp79/Quera-Problem-Solution/tree/Develope/Competition/15124'>Answer</a>
             </td>
         </tr>
             <tr>
@@ -812,7 +812,7 @@ Our problems link are avilable in this table. You can click on problem to redire
                 https://quera.org/problemset/17244/
             </td>
             <td align="center">
-                address
+                <a href='https://github.com/myp79/Quera-Problem-Solution/tree/Develope/Competition/17244'>Answer</a>
             </td>
         </tr>
             <tr>
@@ -826,7 +826,7 @@ Our problems link are avilable in this table. You can click on problem to redire
                 https://quera.org/problemset/17675/
             </td>
             <td align="center">
-                address
+                <a href='https://github.com/myp79/Quera-Problem-Solution/tree/Develope/Competition/17675'>Answer</a>
             </td>
         </tr>
             <tr>
@@ -840,7 +840,7 @@ Our problems link are avilable in this table. You can click on problem to redire
                 https://quera.org/problemset/17902/
             </td>
             <td align="center">
-                address
+                <a href='https://github.com/myp79/Quera-Problem-Solution/tree/Develope/Competition/17902'>Answer</a>
             </td>
         </tr>
             <tr>
@@ -854,7 +854,7 @@ Our problems link are avilable in this table. You can click on problem to redire
                 https://quera.org/problemset/18212/
             </td>
             <td align="center">
-                address
+                <a href='https://github.com/myp79/Quera-Problem-Solution/tree/Develope/Competition/18212'>Answer</a>
             </td>
         </tr>
             <tr>
@@ -868,7 +868,7 @@ Our problems link are avilable in this table. You can click on problem to redire
                 https://quera.org/problemset/20249/
             </td>
             <td align="center">
-                address
+                <a href='https://github.com/myp79/Quera-Problem-Solution/tree/Develope/Competition/20249'>Answer</a>
             </td>
         </tr>
             <tr>
@@ -882,7 +882,7 @@ Our problems link are avilable in this table. You can click on problem to redire
                 https://quera.org/problemset/20256/
             </td>
             <td align="center">
-                address
+                <a href='https://github.com/myp79/Quera-Problem-Solution/tree/Develope/Competition/20256'>Answer</a>
             </td>
         </tr>
             <tr>
@@ -896,7 +896,7 @@ Our problems link are avilable in this table. You can click on problem to redire
                 https://quera.org/problemset/26651/
             </td>
             <td align="center">
-                address
+                <a href='https://github.com/myp79/Quera-Problem-Solution/tree/Develope/Competition/26651'>Answer</a>
             </td>
         </tr>
             <tr>
@@ -910,7 +910,7 @@ Our problems link are avilable in this table. You can click on problem to redire
                 https://quera.org/problemset/28947/
             </td>
             <td align="center">
-                address
+                <a href='https://github.com/myp79/Quera-Problem-Solution/tree/Develope/Competition/28947'>Answer</a>
             </td>
         </tr>
             <tr>
@@ -924,7 +924,7 @@ Our problems link are avilable in this table. You can click on problem to redire
                 https://quera.org/problemset/28948/
             </td>
             <td align="center">
-                address
+                <a href='https://github.com/myp79/Quera-Problem-Solution/tree/Develope/Competition/28948'>Answer</a>
             </td>
         </tr>
             <tr>
@@ -938,7 +938,7 @@ Our problems link are avilable in this table. You can click on problem to redire
                 https://quera.org/problemset/31020/
             </td>
             <td align="center">
-                address
+                <a href='https://github.com/myp79/Quera-Problem-Solution/tree/Develope/Competition/31020'>Answer</a>
             </td>
         </tr>
             <tr>
@@ -952,7 +952,7 @@ Our problems link are avilable in this table. You can click on problem to redire
                 https://quera.org/problemset/31021/
             </td>
             <td align="center">
-                address
+                <a href='https://github.com/myp79/Quera-Problem-Solution/tree/Develope/Competition/31021'>Answer</a>
             </td>
         </tr>
             <tr>
@@ -966,7 +966,7 @@ Our problems link are avilable in this table. You can click on problem to redire
                 https://quera.org/problemset/31025/
             </td>
             <td align="center">
-                address
+                <a href='https://github.com/myp79/Quera-Problem-Solution/tree/Develope/Competition/31025'>Answer</a>
             </td>
         </tr>
             <tr>
@@ -980,7 +980,7 @@ Our problems link are avilable in this table. You can click on problem to redire
                 https://quera.org/problemset/31026/
             </td>
             <td align="center">
-                address
+                <a href='https://github.com/myp79/Quera-Problem-Solution/tree/Develope/Competition/31026'>Answer</a>
             </td>
         </tr>
             <tr>
@@ -994,7 +994,7 @@ Our problems link are avilable in this table. You can click on problem to redire
                 https://quera.org/problemset/33023/
             </td>
             <td align="center">
-                address
+                <a href='https://github.com/myp79/Quera-Problem-Solution/tree/Develope/Competition/33023'>Answer</a>
             </td>
         </tr>
             <tr>
@@ -1008,7 +1008,7 @@ Our problems link are avilable in this table. You can click on problem to redire
                 https://quera.org/problemset/33045/
             </td>
             <td align="center">
-                address
+                <a href='https://github.com/myp79/Quera-Problem-Solution/tree/Develope/Competition/33045'>Answer</a>
             </td>
         </tr>
             <tr>
@@ -1022,7 +1022,7 @@ Our problems link are avilable in this table. You can click on problem to redire
                 https://quera.org/problemset/34081/
             </td>
             <td align="center">
-                address
+                <a href='https://github.com/myp79/Quera-Problem-Solution/tree/Develope/Competition/34081'>Answer</a>
             </td>
         </tr>
             <tr>
@@ -1036,7 +1036,7 @@ Our problems link are avilable in this table. You can click on problem to redire
                 https://quera.org/problemset/34082/
             </td>
             <td align="center">
-                address
+                <a href='https://github.com/myp79/Quera-Problem-Solution/tree/Develope/Competition/34082'>Answer</a>
             </td>
         </tr>
             <tr>
@@ -1050,7 +1050,7 @@ Our problems link are avilable in this table. You can click on problem to redire
                 https://quera.org/problemset/35253/
             </td>
             <td align="center">
-                address
+                <a href='https://github.com/myp79/Quera-Problem-Solution/tree/Develope/Competition/35253'>Answer</a>
             </td>
         </tr>
             <tr>
@@ -1064,7 +1064,7 @@ Our problems link are avilable in this table. You can click on problem to redire
                 https://quera.org/problemset/49028/
             </td>
             <td align="center">
-                address
+                <a href='https://github.com/myp79/Quera-Problem-Solution/tree/Develope/Competition/49028'>Answer</a>
             </td>
         </tr>
             <tr>
@@ -1078,7 +1078,7 @@ Our problems link are avilable in this table. You can click on problem to redire
                 https://quera.org/problemset/49535/
             </td>
             <td align="center">
-                address
+                <a href='https://github.com/myp79/Quera-Problem-Solution/tree/Develope/Competition/49535'>Answer</a>
             </td>
         </tr>
             <tr>
@@ -1092,7 +1092,7 @@ Our problems link are avilable in this table. You can click on problem to redire
                 https://quera.org/problemset/51865/
             </td>
             <td align="center">
-                address
+                <a href='https://github.com/myp79/Quera-Problem-Solution/tree/Develope/Competition/51865'>Answer</a>
             </td>
         </tr>
             <tr>
@@ -1106,7 +1106,7 @@ Our problems link are avilable in this table. You can click on problem to redire
                 https://quera.org/problemset/51866/
             </td>
             <td align="center">
-                address
+                <a href='https://github.com/myp79/Quera-Problem-Solution/tree/Develope/Competition/51866'>Answer</a>
             </td>
         </tr>
             <tr>
@@ -1120,7 +1120,7 @@ Our problems link are avilable in this table. You can click on problem to redire
                 https://quera.org/problemset/52542/
             </td>
             <td align="center">
-                address
+                <a href='https://github.com/myp79/Quera-Problem-Solution/tree/Develope/Competition/52542'>Answer</a>
             </td>
         </tr>
             <tr>
@@ -1134,7 +1134,7 @@ Our problems link are avilable in this table. You can click on problem to redire
                 https://quera.org/problemset/61038/
             </td>
             <td align="center">
-                address
+                <a href='https://github.com/myp79/Quera-Problem-Solution/tree/Develope/Competition/61038'>Answer</a>
             </td>
         </tr>
             <tr>
@@ -1148,7 +1148,7 @@ Our problems link are avilable in this table. You can click on problem to redire
                 https://quera.org/problemset/62451/
             </td>
             <td align="center">
-                address
+                <a href='https://github.com/myp79/Quera-Problem-Solution/tree/Develope/Competition/62451'>Answer</a>
             </td>
         </tr>
             <tr>
@@ -1162,7 +1162,7 @@ Our problems link are avilable in this table. You can click on problem to redire
                 https://quera.org/problemset/64434/
             </td>
             <td align="center">
-                address
+                <a href='https://github.com/myp79/Quera-Problem-Solution/tree/Develope/Competition/64434'>Answer</a>
             </td>
         </tr>
             <tr>
@@ -1176,7 +1176,7 @@ Our problems link are avilable in this table. You can click on problem to redire
                 https://quera.org/problemset/69903/
             </td>
             <td align="center">
-                address
+                <a href='https://github.com/myp79/Quera-Problem-Solution/tree/Develope/Competition/69903'>Answer</a>
             </td>
         </tr>
             <tr>
@@ -1190,7 +1190,7 @@ Our problems link are avilable in this table. You can click on problem to redire
                 https://quera.org/problemset/72874/
             </td>
             <td align="center">
-                address
+                <a href='https://github.com/myp79/Quera-Problem-Solution/tree/Develope/Competition/72874'>Answer</a>
             </td>
         </tr>
             <tr>
@@ -1204,7 +1204,7 @@ Our problems link are avilable in this table. You can click on problem to redire
                 https://quera.org/problemset/72875/
             </td>
             <td align="center">
-                address
+                <a href='https://github.com/myp79/Quera-Problem-Solution/tree/Develope/Competition/72875'>Answer</a>
             </td>
         </tr>
             <tr>
@@ -1218,7 +1218,7 @@ Our problems link are avilable in this table. You can click on problem to redire
                 https://quera.org/problemset/72876/
             </td>
             <td align="center">
-                address
+                <a href='https://github.com/myp79/Quera-Problem-Solution/tree/Develope/Competition/72876'>Answer</a>
             </td>
         </tr>
             <tr>
@@ -1232,7 +1232,7 @@ Our problems link are avilable in this table. You can click on problem to redire
                 https://quera.org/problemset/72877/
             </td>
             <td align="center">
-                address
+                <a href='https://github.com/myp79/Quera-Problem-Solution/tree/Develope/Competition/72877'>Answer</a>
             </td>
         </tr>
             <tr>
@@ -1246,7 +1246,7 @@ Our problems link are avilable in this table. You can click on problem to redire
                 https://quera.org/problemset/72880/
             </td>
             <td align="center">
-                address
+                <a href='https://github.com/myp79/Quera-Problem-Solution/tree/Develope/Competition/72880'>Answer</a>
             </td>
         </tr>
             <tr>
@@ -1260,7 +1260,7 @@ Our problems link are avilable in this table. You can click on problem to redire
                 https://quera.org/problemset/72881/
             </td>
             <td align="center">
-                address
+                <a href='https://github.com/myp79/Quera-Problem-Solution/tree/Develope/Competition/72881'>Answer</a>
             </td>
         </tr>
             <tr>
@@ -1274,7 +1274,7 @@ Our problems link are avilable in this table. You can click on problem to redire
                 https://quera.org/problemset/80651/
             </td>
             <td align="center">
-                address
+                <a href='https://github.com/myp79/Quera-Problem-Solution/tree/Develope/Competition/80651'>Answer</a>
             </td>
         </tr>
             <tr>
@@ -1288,7 +1288,7 @@ Our problems link are avilable in this table. You can click on problem to redire
                 https://quera.org/problemset/91712/
             </td>
             <td align="center">
-                address
+                <a href='https://github.com/myp79/Quera-Problem-Solution/tree/Develope/Competition/91712'>Answer</a>
             </td>
         </tr>
             <tr>
@@ -1302,7 +1302,7 @@ Our problems link are avilable in this table. You can click on problem to redire
                 https://quera.org/problemset/91713/
             </td>
             <td align="center">
-                address
+                <a href='https://github.com/myp79/Quera-Problem-Solution/tree/Develope/Competition/91713'>Answer</a>
             </td>
         </tr>
             <tr>
@@ -1316,7 +1316,7 @@ Our problems link are avilable in this table. You can click on problem to redire
                 https://quera.org/problemset/102261/
             </td>
             <td align="center">
-                address
+                <a href='https://github.com/myp79/Quera-Problem-Solution/tree/Develope/Competition/102261'>Answer</a>
             </td>
         </tr>
             <tr>
@@ -1330,7 +1330,7 @@ Our problems link are avilable in this table. You can click on problem to redire
                 https://quera.org/problemset/104588/
             </td>
             <td align="center">
-                address
+                <a href='https://github.com/myp79/Quera-Problem-Solution/tree/Develope/Competition/104588'>Answer</a>
             </td>
         </tr>
             <tr>
@@ -1344,7 +1344,7 @@ Our problems link are avilable in this table. You can click on problem to redire
                 https://quera.org/problemset/104589/
             </td>
             <td align="center">
-                address
+                <a href='https://github.com/myp79/Quera-Problem-Solution/tree/Develope/Competition/104589'>Answer</a>
             </td>
         </tr>
             <tr>
@@ -1358,7 +1358,7 @@ Our problems link are avilable in this table. You can click on problem to redire
                 https://quera.org/problemset/106795/
             </td>
             <td align="center">
-                address
+                <a href='https://github.com/myp79/Quera-Problem-Solution/tree/Develope/Competition/106795'>Answer</a>
             </td>
         </tr>
             <tr>
@@ -1372,7 +1372,7 @@ Our problems link are avilable in this table. You can click on problem to redire
                 https://quera.org/problemset/106796/
             </td>
             <td align="center">
-                address
+                <a href='https://github.com/myp79/Quera-Problem-Solution/tree/Develope/Competition/106796'>Answer</a>
             </td>
         </tr>
             <tr>
@@ -1386,7 +1386,7 @@ Our problems link are avilable in this table. You can click on problem to redire
                 https://quera.org/problemset/108665/
             </td>
             <td align="center">
-                address
+                <a href='https://github.com/myp79/Quera-Problem-Solution/tree/Develope/Competition/108665'>Answer</a>
             </td>
         </tr>
             <tr>
@@ -1400,7 +1400,7 @@ Our problems link are avilable in this table. You can click on problem to redire
                 https://quera.org/problemset/108669/
             </td>
             <td align="center">
-                address
+                <a href='https://github.com/myp79/Quera-Problem-Solution/tree/Develope/Competition/108669'>Answer</a>
             </td>
         </tr>
             <tr>
@@ -1414,7 +1414,7 @@ Our problems link are avilable in this table. You can click on problem to redire
                 https://quera.org/problemset/110014/
             </td>
             <td align="center">
-                address
+                <a href='https://github.com/myp79/Quera-Problem-Solution/tree/Develope/Competition/110014'>Answer</a>
             </td>
         </tr>
             <tr>
@@ -1428,7 +1428,7 @@ Our problems link are avilable in this table. You can click on problem to redire
                 https://quera.org/problemset/123798/
             </td>
             <td align="center">
-                address
+                <a href='https://github.com/myp79/Quera-Problem-Solution/tree/Develope/Competition/123798'>Answer</a>
             </td>
         </tr>
             <tr>
@@ -1442,7 +1442,7 @@ Our problems link are avilable in this table. You can click on problem to redire
                 https://quera.org/problemset/127289/
             </td>
             <td align="center">
-                address
+                <a href='https://github.com/myp79/Quera-Problem-Solution/tree/Develope/Competition/127289'>Answer</a>
             </td>
         </tr>
             </table>
