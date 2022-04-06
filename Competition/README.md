@@ -1,4 +1,3 @@
-
 # Problems
 Our problems link are avilable in this table. You can click on problem to redirect to page a answer the question but you must login befor click on it.
 
@@ -6,9 +5,6 @@ Our problems link are avilable in this table. You can click on problem to redire
                 <tr>
                     <td align="center">
                         NO
-                    </td>
-                    <td align="center">
-                        Question name
                     </td>
                     <td align="center">
                         URL

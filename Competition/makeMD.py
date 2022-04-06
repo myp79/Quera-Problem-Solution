@@ -1,10 +1,7 @@
 import os
-import requests
-from bs4 import BeautifulSoup
 
 os.chdir('./Competition')
-start_description = '''
-# Problems
+start_description = '''# Problems
 Our problems link are avilable in this table. You can click on problem to redirect to page a answer the question but you must login befor click on it.
 
 '''
@@ -13,15 +10,6 @@ files = [int(item) for item in os.listdir(
 files.sort()
 
 urls = ['https://quera.org/problemset/{}/'.format(item) for item in files]
-
-# names = []
-# url = 'https://quera.org/problemset/2637/'
-# for url in urls:
-#     r = requests.get(url)
-#     soup = BeautifulSoup(r.content, 'html.parser')
-#     x = soup.find(class_='ui center aligned fluid container')
-#     names.append(x.text)
-
 
 answers = [
     'https://github.com/myp79/Quera-Problem-Solution/tree/Develope/Competition/{}'.format(item) for item in files]
@@ -32,9 +20,6 @@ with open('README.md', 'w') as f:
                 <tr>
                     <td align="center">
                         NO
-                    </td>
-                    <td align="center">
-                        Question name
                     </td>
                     <td align="center">
                         URL
