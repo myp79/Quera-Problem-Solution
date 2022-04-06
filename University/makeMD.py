@@ -1,6 +1,6 @@
 import os
 
-os.chdir('./Competition')
+os.chdir('./University')
 start_description = '''# Problems
 Our problems link are avilable in this table. You can click on problem to redirect to page a answer the question but you must login befor click on it.
 
@@ -12,7 +12,7 @@ files.sort()
 urls = ['https://quera.org/problemset/{}/'.format(item) for item in files]
 
 answers = [
-    'https://github.com/myp79/Quera-Problem-Solution/tree/Develope/Competition/{}'.format(item) for item in files]
+    'https://github.com/myp79/Quera-Problem-Solution/tree/Develope/University/{}'.format(item) for item in files]
 
 with open('README.md', 'w') as f:
     f.write(start_description)
