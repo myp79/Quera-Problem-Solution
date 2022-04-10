@@ -20,4 +20,7 @@ You can add you solution by these rules:
 
 - If you use somthing uncommen like data structues and algorithms, comment your link of solution in your solving file.
 
+- After commit your solution, run makeMD.py of the question category then commit the change for showing solved problems.
+
+
 Good luck
