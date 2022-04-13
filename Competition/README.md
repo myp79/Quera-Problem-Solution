@@ -1118,6 +1118,17 @@ Our problems link are avilable in this table. You can click on problem to redire
                 101
             </td>
             <td align="center">
+                https://quera.org/problemset/106797/
+            </td>
+            <td align="center">
+                <a href='https://github.com/myp79/Quera-Problem-Solution/tree/Develope/Competition/106797'>Answer</a>
+            </td>
+        </tr>
+            <tr>
+            <td align="center">
+                102
+            </td>
+            <td align="center">
                 https://quera.org/problemset/108665/
             </td>
             <td align="center">
@@ -1126,7 +1137,7 @@ Our problems link are avilable in this table. You can click on problem to redire
         </tr>
             <tr>
             <td align="center">
-                102
+                103
             </td>
             <td align="center">
                 https://quera.org/problemset/108669/
@@ -1137,7 +1148,7 @@ Our problems link are avilable in this table. You can click on problem to redire
         </tr>
             <tr>
             <td align="center">
-                103
+                104
             </td>
             <td align="center">
                 https://quera.org/problemset/110014/
@@ -1148,7 +1159,7 @@ Our problems link are avilable in this table. You can click on problem to redire
         </tr>
             <tr>
             <td align="center">
-                104
+                105
             </td>
             <td align="center">
                 https://quera.org/problemset/123798/
@@ -1159,7 +1170,7 @@ Our problems link are avilable in this table. You can click on problem to redire
         </tr>
             <tr>
             <td align="center">
-                105
+                106
             </td>
             <td align="center">
                 https://quera.org/problemset/127289/
@@ -1170,7 +1181,7 @@ Our problems link are avilable in this table. You can click on problem to redire
         </tr>
             <tr>
             <td align="center">
-                106
+                107
             </td>
             <td align="center">
                 https://quera.org/problemset/138021/
