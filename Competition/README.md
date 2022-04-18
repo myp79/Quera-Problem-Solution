@@ -304,6 +304,17 @@ Our problems link are avilable in this table. You can click on problem to redire
                 27
             </td>
             <td align="center">
+                https://quera.org/problemset/3418/
+            </td>
+            <td align="center">
+                <a href='https://github.com/myp79/Quera-Problem-Solution/tree/Develope/Competition/3418'>Answer</a>
+            </td>
+        </tr>
+            <tr>
+            <td align="center">
+                28
+            </td>
+            <td align="center">
                 https://quera.org/problemset/3429/
             </td>
             <td align="center">
@@ -312,7 +323,7 @@ Our problems link are avilable in this table. You can click on problem to redire
         </tr>
             <tr>
             <td align="center">
-                28
+                29
             </td>
             <td align="center">
                 https://quera.org/problemset/3430/
@@ -323,7 +334,7 @@ Our problems link are avilable in this table. You can click on problem to redire
         </tr>
             <tr>
             <td align="center">
-                29
+                30
             </td>
             <td align="center">
                 https://quera.org/problemset/3537/
@@ -334,7 +345,7 @@ Our problems link are avilable in this table. You can click on problem to redire
         </tr>
             <tr>
             <td align="center">
-                30
+                31
             </td>
             <td align="center">
                 https://quera.org/problemset/3538/
@@ -345,7 +356,7 @@ Our problems link are avilable in this table. You can click on problem to redire
         </tr>
             <tr>
             <td align="center">
-                31
+                32
             </td>
             <td align="center">
                 https://quera.org/problemset/3539/
@@ -356,7 +367,7 @@ Our problems link are avilable in this table. You can click on problem to redire
         </tr>
             <tr>
             <td align="center">
-                32
+                33
             </td>
             <td align="center">
                 https://quera.org/problemset/3541/
@@ -367,7 +378,7 @@ Our problems link are avilable in this table. You can click on problem to redire
         </tr>
             <tr>
             <td align="center">
-                33
+                34
             </td>
             <td align="center">
                 https://quera.org/problemset/4065/
@@ -378,7 +389,7 @@ Our problems link are avilable in this table. You can click on problem to redire
         </tr>
             <tr>
             <td align="center">
-                34
+                35
             </td>
             <td align="center">
                 https://quera.org/problemset/4066/
@@ -389,7 +400,7 @@ Our problems link are avilable in this table. You can click on problem to redire
         </tr>
             <tr>
             <td align="center">
-                35
+                36
             </td>
             <td align="center">
                 https://quera.org/problemset/4067/
@@ -400,7 +411,7 @@ Our problems link are avilable in this table. You can click on problem to redire
         </tr>
             <tr>
             <td align="center">
-                36
+                37
             </td>
             <td align="center">
                 https://quera.org/problemset/6082/
@@ -411,7 +422,7 @@ Our problems link are avilable in this table. You can click on problem to redire
         </tr>
             <tr>
             <td align="center">
-                37
+                38
             </td>
             <td align="center">
                 https://quera.org/problemset/6192/
@@ -422,7 +433,7 @@ Our problems link are avilable in this table. You can click on problem to redire
         </tr>
             <tr>
             <td align="center">
-                38
+                39
             </td>
             <td align="center">
                 https://quera.org/problemset/6193/
@@ -433,7 +444,7 @@ Our problems link are avilable in this table. You can click on problem to redire
         </tr>
             <tr>
             <td align="center">
-                39
+                40
             </td>
             <td align="center">
                 https://quera.org/problemset/6374/
@@ -444,7 +455,7 @@ Our problems link are avilable in this table. You can click on problem to redire
         </tr>
             <tr>
             <td align="center">
-                40
+                41
             </td>
             <td align="center">
                 https://quera.org/problemset/6580/
@@ -455,7 +466,7 @@ Our problems link are avilable in this table. You can click on problem to redire
         </tr>
             <tr>
             <td align="center">
-                41
+                42
             </td>
             <td align="center">
                 https://quera.org/problemset/7609/
@@ -466,7 +477,7 @@ Our problems link are avilable in this table. You can click on problem to redire
         </tr>
             <tr>
             <td align="center">
-                42
+                43
             </td>
             <td align="center">
                 https://quera.org/problemset/7998/
@@ -477,7 +488,7 @@ Our problems link are avilable in this table. You can click on problem to redire
         </tr>
             <tr>
             <td align="center">
-                43
+                44
             </td>
             <td align="center">
                 https://quera.org/problemset/8838/
@@ -488,7 +499,7 @@ Our problems link are avilable in this table. You can click on problem to redire
         </tr>
             <tr>
             <td align="center">
-                44
+                45
             </td>
             <td align="center">
                 https://quera.org/problemset/8901/
@@ -499,7 +510,7 @@ Our problems link are avilable in this table. You can click on problem to redire
         </tr>
             <tr>
             <td align="center">
-                45
+                46
             </td>
             <td align="center">
                 https://quera.org/problemset/8938/
@@ -510,7 +521,7 @@ Our problems link are avilable in this table. You can click on problem to redire
         </tr>
             <tr>
             <td align="center">
-                46
+                47
             </td>
             <td align="center">
                 https://quera.org/problemset/9109/
@@ -521,7 +532,7 @@ Our problems link are avilable in this table. You can click on problem to redire
         </tr>
             <tr>
             <td align="center">
-                47
+                48
             </td>
             <td align="center">
                 https://quera.org/problemset/9110/
@@ -532,7 +543,7 @@ Our problems link are avilable in this table. You can click on problem to redire
         </tr>
             <tr>
             <td align="center">
-                48
+                49
             </td>
             <td align="center">
                 https://quera.org/problemset/10162/
@@ -543,7 +554,7 @@ Our problems link are avilable in this table. You can click on problem to redire
         </tr>
             <tr>
             <td align="center">
-                49
+                50
             </td>
             <td align="center">
                 https://quera.org/problemset/10230/
@@ -554,7 +565,7 @@ Our problems link are avilable in this table. You can click on problem to redire
         </tr>
             <tr>
             <td align="center">
-                50
+                51
             </td>
             <td align="center">
                 https://quera.org/problemset/10231/
@@ -565,7 +576,7 @@ Our problems link are avilable in this table. You can click on problem to redire
         </tr>
             <tr>
             <td align="center">
-                51
+                52
             </td>
             <td align="center">
                 https://quera.org/problemset/10233/
@@ -576,7 +587,7 @@ Our problems link are avilable in this table. You can click on problem to redire
         </tr>
             <tr>
             <td align="center">
-                52
+                53
             </td>
             <td align="center">
                 https://quera.org/problemset/10325/
@@ -587,7 +598,7 @@ Our problems link are avilable in this table. You can click on problem to redire
         </tr>
             <tr>
             <td align="center">
-                53
+                54
             </td>
             <td align="center">
                 https://quera.org/problemset/10326/
@@ -598,7 +609,7 @@ Our problems link are avilable in this table. You can click on problem to redire
         </tr>
             <tr>
             <td align="center">
-                54
+                55
             </td>
             <td align="center">
                 https://quera.org/problemset/10327/
@@ -609,7 +620,7 @@ Our problems link are avilable in this table. You can click on problem to redire
         </tr>
             <tr>
             <td align="center">
-                55
+                56
             </td>
             <td align="center">
                 https://quera.org/problemset/10636/
@@ -620,7 +631,7 @@ Our problems link are avilable in this table. You can click on problem to redire
         </tr>
             <tr>
             <td align="center">
-                56
+                57
             </td>
             <td align="center">
                 https://quera.org/problemset/14580/
@@ -631,7 +642,7 @@ Our problems link are avilable in this table. You can click on problem to redire
         </tr>
             <tr>
             <td align="center">
-                57
+                58
             </td>
             <td align="center">
                 https://quera.org/problemset/14581/
@@ -642,7 +653,7 @@ Our problems link are avilable in this table. You can click on problem to redire
         </tr>
             <tr>
             <td align="center">
-                58
+                59
             </td>
             <td align="center">
                 https://quera.org/problemset/15124/
@@ -653,7 +664,7 @@ Our problems link are avilable in this table. You can click on problem to redire
         </tr>
             <tr>
             <td align="center">
-                59
+                60
             </td>
             <td align="center">
                 https://quera.org/problemset/17244/
@@ -664,7 +675,7 @@ Our problems link are avilable in this table. You can click on problem to redire
         </tr>
             <tr>
             <td align="center">
-                60
+                61
             </td>
             <td align="center">
                 https://quera.org/problemset/17675/
@@ -675,7 +686,7 @@ Our problems link are avilable in this table. You can click on problem to redire
         </tr>
             <tr>
             <td align="center">
-                61
+                62
             </td>
             <td align="center">
                 https://quera.org/problemset/17902/
@@ -686,7 +697,7 @@ Our problems link are avilable in this table. You can click on problem to redire
         </tr>
             <tr>
             <td align="center">
-                62
+                63
             </td>
             <td align="center">
                 https://quera.org/problemset/18212/
@@ -697,7 +708,7 @@ Our problems link are avilable in this table. You can click on problem to redire
         </tr>
             <tr>
             <td align="center">
-                63
+                64
             </td>
             <td align="center">
                 https://quera.org/problemset/20249/
@@ -708,7 +719,7 @@ Our problems link are avilable in this table. You can click on problem to redire
         </tr>
             <tr>
             <td align="center">
-                64
+                65
             </td>
             <td align="center">
                 https://quera.org/problemset/20256/
@@ -719,7 +730,7 @@ Our problems link are avilable in this table. You can click on problem to redire
         </tr>
             <tr>
             <td align="center">
-                65
+                66
             </td>
             <td align="center">
                 https://quera.org/problemset/26651/
@@ -730,7 +741,7 @@ Our problems link are avilable in this table. You can click on problem to redire
         </tr>
             <tr>
             <td align="center">
-                66
+                67
             </td>
             <td align="center">
                 https://quera.org/problemset/28947/
@@ -741,7 +752,7 @@ Our problems link are avilable in this table. You can click on problem to redire
         </tr>
             <tr>
             <td align="center">
-                67
+                68
             </td>
             <td align="center">
                 https://quera.org/problemset/28948/
@@ -752,7 +763,7 @@ Our problems link are avilable in this table. You can click on problem to redire
         </tr>
             <tr>
             <td align="center">
-                68
+                69
             </td>
             <td align="center">
                 https://quera.org/problemset/31020/
@@ -763,7 +774,7 @@ Our problems link are avilable in this table. You can click on problem to redire
         </tr>
             <tr>
             <td align="center">
-                69
+                70
             </td>
             <td align="center">
                 https://quera.org/problemset/31021/
@@ -774,7 +785,7 @@ Our problems link are avilable in this table. You can click on problem to redire
         </tr>
             <tr>
             <td align="center">
-                70
+                71
             </td>
             <td align="center">
                 https://quera.org/problemset/31025/
@@ -785,7 +796,7 @@ Our problems link are avilable in this table. You can click on problem to redire
         </tr>
             <tr>
             <td align="center">
-                71
+                72
             </td>
             <td align="center">
                 https://quera.org/problemset/31026/
@@ -796,7 +807,7 @@ Our problems link are avilable in this table. You can click on problem to redire
         </tr>
             <tr>
             <td align="center">
-                72
+                73
             </td>
             <td align="center">
                 https://quera.org/problemset/33023/
@@ -807,7 +818,7 @@ Our problems link are avilable in this table. You can click on problem to redire
         </tr>
             <tr>
             <td align="center">
-                73
+                74
             </td>
             <td align="center">
                 https://quera.org/problemset/33045/
@@ -818,7 +829,7 @@ Our problems link are avilable in this table. You can click on problem to redire
         </tr>
             <tr>
             <td align="center">
-                74
+                75
             </td>
             <td align="center">
                 https://quera.org/problemset/34081/
@@ -829,7 +840,7 @@ Our problems link are avilable in this table. You can click on problem to redire
         </tr>
             <tr>
             <td align="center">
-                75
+                76
             </td>
             <td align="center">
                 https://quera.org/problemset/34082/
@@ -840,7 +851,7 @@ Our problems link are avilable in this table. You can click on problem to redire
         </tr>
             <tr>
             <td align="center">
-                76
+                77
             </td>
             <td align="center">
                 https://quera.org/problemset/35253/
@@ -851,7 +862,7 @@ Our problems link are avilable in this table. You can click on problem to redire
         </tr>
             <tr>
             <td align="center">
-                77
+                78
             </td>
             <td align="center">
                 https://quera.org/problemset/49028/
@@ -862,7 +873,7 @@ Our problems link are avilable in this table. You can click on problem to redire
         </tr>
             <tr>
             <td align="center">
-                78
+                79
             </td>
             <td align="center">
                 https://quera.org/problemset/49535/
@@ -873,7 +884,7 @@ Our problems link are avilable in this table. You can click on problem to redire
         </tr>
             <tr>
             <td align="center">
-                79
+                80
             </td>
             <td align="center">
                 https://quera.org/problemset/51865/
@@ -884,7 +895,7 @@ Our problems link are avilable in this table. You can click on problem to redire
         </tr>
             <tr>
             <td align="center">
-                80
+                81
             </td>
             <td align="center">
                 https://quera.org/problemset/51866/
@@ -895,7 +906,7 @@ Our problems link are avilable in this table. You can click on problem to redire
         </tr>
             <tr>
             <td align="center">
-                81
+                82
             </td>
             <td align="center">
                 https://quera.org/problemset/52542/
@@ -906,7 +917,7 @@ Our problems link are avilable in this table. You can click on problem to redire
         </tr>
             <tr>
             <td align="center">
-                82
+                83
             </td>
             <td align="center">
                 https://quera.org/problemset/61038/
@@ -917,7 +928,7 @@ Our problems link are avilable in this table. You can click on problem to redire
         </tr>
             <tr>
             <td align="center">
-                83
+                84
             </td>
             <td align="center">
                 https://quera.org/problemset/62451/
@@ -928,7 +939,7 @@ Our problems link are avilable in this table. You can click on problem to redire
         </tr>
             <tr>
             <td align="center">
-                84
+                85
             </td>
             <td align="center">
                 https://quera.org/problemset/64434/
@@ -939,7 +950,7 @@ Our problems link are avilable in this table. You can click on problem to redire
         </tr>
             <tr>
             <td align="center">
-                85
+                86
             </td>
             <td align="center">
                 https://quera.org/problemset/69903/
@@ -950,7 +961,7 @@ Our problems link are avilable in this table. You can click on problem to redire
         </tr>
             <tr>
             <td align="center">
-                86
+                87
             </td>
             <td align="center">
                 https://quera.org/problemset/72874/
@@ -961,7 +972,7 @@ Our problems link are avilable in this table. You can click on problem to redire
         </tr>
             <tr>
             <td align="center">
-                87
+                88
             </td>
             <td align="center">
                 https://quera.org/problemset/72875/
@@ -972,7 +983,7 @@ Our problems link are avilable in this table. You can click on problem to redire
         </tr>
             <tr>
             <td align="center">
-                88
+                89
             </td>
             <td align="center">
                 https://quera.org/problemset/72876/
@@ -983,7 +994,7 @@ Our problems link are avilable in this table. You can click on problem to redire
         </tr>
             <tr>
             <td align="center">
-                89
+                90
             </td>
             <td align="center">
                 https://quera.org/problemset/72877/
@@ -994,7 +1005,7 @@ Our problems link are avilable in this table. You can click on problem to redire
         </tr>
             <tr>
             <td align="center">
-                90
+                91
             </td>
             <td align="center">
                 https://quera.org/problemset/72880/
@@ -1005,7 +1016,7 @@ Our problems link are avilable in this table. You can click on problem to redire
         </tr>
             <tr>
             <td align="center">
-                91
+                92
             </td>
             <td align="center">
                 https://quera.org/problemset/72881/
@@ -1016,7 +1027,7 @@ Our problems link are avilable in this table. You can click on problem to redire
         </tr>
             <tr>
             <td align="center">
-                92
+                93
             </td>
             <td align="center">
                 https://quera.org/problemset/80651/
@@ -1027,7 +1038,7 @@ Our problems link are avilable in this table. You can click on problem to redire
         </tr>
             <tr>
             <td align="center">
-                93
+                94
             </td>
             <td align="center">
                 https://quera.org/problemset/82378/
@@ -1038,7 +1049,7 @@ Our problems link are avilable in this table. You can click on problem to redire
         </tr>
             <tr>
             <td align="center">
-                94
+                95
             </td>
             <td align="center">
                 https://quera.org/problemset/91712/
@@ -1049,7 +1060,7 @@ Our problems link are avilable in this table. You can click on problem to redire
         </tr>
             <tr>
             <td align="center">
-                95
+                96
             </td>
             <td align="center">
                 https://quera.org/problemset/91713/
@@ -1060,7 +1071,7 @@ Our problems link are avilable in this table. You can click on problem to redire
         </tr>
             <tr>
             <td align="center">
-                96
+                97
             </td>
             <td align="center">
                 https://quera.org/problemset/102254/
@@ -1071,7 +1082,7 @@ Our problems link are avilable in this table. You can click on problem to redire
         </tr>
             <tr>
             <td align="center">
-                97
+                98
             </td>
             <td align="center">
                 https://quera.org/problemset/102261/
@@ -1082,7 +1093,7 @@ Our problems link are avilable in this table. You can click on problem to redire
         </tr>
             <tr>
             <td align="center">
-                98
+                99
             </td>
             <td align="center">
                 https://quera.org/problemset/104588/
@@ -1093,7 +1104,7 @@ Our problems link are avilable in this table. You can click on problem to redire
         </tr>
             <tr>
             <td align="center">
-                99
+                100
             </td>
             <td align="center">
                 https://quera.org/problemset/104589/
@@ -1104,7 +1115,7 @@ Our problems link are avilable in this table. You can click on problem to redire
         </tr>
             <tr>
             <td align="center">
-                100
+                101
             </td>
             <td align="center">
                 https://quera.org/problemset/106795/
@@ -1115,7 +1126,7 @@ Our problems link are avilable in this table. You can click on problem to redire
         </tr>
             <tr>
             <td align="center">
-                101
+                102
             </td>
             <td align="center">
                 https://quera.org/problemset/106796/
@@ -1126,7 +1137,7 @@ Our problems link are avilable in this table. You can click on problem to redire
         </tr>
             <tr>
             <td align="center">
-                102
+                103
             </td>
             <td align="center">
                 https://quera.org/problemset/106797/
@@ -1137,7 +1148,7 @@ Our problems link are avilable in this table. You can click on problem to redire
         </tr>
             <tr>
             <td align="center">
-                103
+                104
             </td>
             <td align="center">
                 https://quera.org/problemset/108665/
@@ -1148,7 +1159,7 @@ Our problems link are avilable in this table. You can click on problem to redire
         </tr>
             <tr>
             <td align="center">
-                104
+                105
             </td>
             <td align="center">
                 https://quera.org/problemset/108668/
@@ -1159,7 +1170,7 @@ Our problems link are avilable in this table. You can click on problem to redire
         </tr>
             <tr>
             <td align="center">
-                105
+                106
             </td>
             <td align="center">
                 https://quera.org/problemset/108669/
@@ -1170,7 +1181,7 @@ Our problems link are avilable in this table. You can click on problem to redire
         </tr>
             <tr>
             <td align="center">
-                106
+                107
             </td>
             <td align="center">
                 https://quera.org/problemset/110014/
@@ -1181,7 +1192,7 @@ Our problems link are avilable in this table. You can click on problem to redire
         </tr>
             <tr>
             <td align="center">
-                107
+                108
             </td>
             <td align="center">
                 https://quera.org/problemset/123798/
@@ -1192,7 +1203,7 @@ Our problems link are avilable in this table. You can click on problem to redire
         </tr>
             <tr>
             <td align="center">
-                108
+                109
             </td>
             <td align="center">
                 https://quera.org/problemset/127289/
@@ -1203,7 +1214,7 @@ Our problems link are avilable in this table. You can click on problem to redire
         </tr>
             <tr>
             <td align="center">
-                109
+                110
             </td>
             <td align="center">
                 https://quera.org/problemset/136483/
@@ -1214,7 +1225,7 @@ Our problems link are avilable in this table. You can click on problem to redire
         </tr>
             <tr>
             <td align="center">
-                110
+                111
             </td>
             <td align="center">
                 https://quera.org/problemset/138021/
