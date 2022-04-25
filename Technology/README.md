@@ -18,6 +18,17 @@ Our problems link are avilable in this table. You can click on problem to redire
                 1
             </td>
             <td align="center">
+                https://quera.org/problemset/21205/
+            </td>
+            <td align="center">
+                <a href='https://github.com/myp79/Quera-Problem-Solution/tree/Develope/Techology/21205'>Answer</a>
+            </td>
+        </tr>
+            <tr>
+            <td align="center">
+                2
+            </td>
+            <td align="center">
                 https://quera.org/problemset/60134/
             </td>
             <td align="center">
@@ -26,7 +37,7 @@ Our problems link are avilable in this table. You can click on problem to redire
         </tr>
             <tr>
             <td align="center">
-                2
+                3
             </td>
             <td align="center">
                 https://quera.org/problemset/76278/
@@ -37,7 +48,7 @@ Our problems link are avilable in this table. You can click on problem to redire
         </tr>
             <tr>
             <td align="center">
-                3
+                4
             </td>
             <td align="center">
                 https://quera.org/problemset/87176/
@@ -48,7 +59,7 @@ Our problems link are avilable in this table. You can click on problem to redire
         </tr>
             <tr>
             <td align="center">
-                4
+                5
             </td>
             <td align="center">
                 https://quera.org/problemset/102250/
@@ -59,7 +70,7 @@ Our problems link are avilable in this table. You can click on problem to redire
         </tr>
             <tr>
             <td align="center">
-                5
+                6
             </td>
             <td align="center">
                 https://quera.org/problemset/129726/
@@ -70,7 +81,7 @@ Our problems link are avilable in this table. You can click on problem to redire
         </tr>
             <tr>
             <td align="center">
-                6
+                7
             </td>
             <td align="center">
                 https://quera.org/problemset/129728/
