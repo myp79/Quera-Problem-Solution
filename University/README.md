@@ -35,5 +35,16 @@ Our problems link are avilable in this table. You can click on problem to redire
                 <a href='https://github.com/myp79/Quera-Problem-Solution/tree/Develope/University/589'>Answer</a>
             </td>
         </tr>
+            <tr>
+            <td align="center">
+                3
+            </td>
+            <td align="center">
+                https://quera.org/problemset/9774/
+            </td>
+            <td align="center">
+                <a href='https://github.com/myp79/Quera-Problem-Solution/tree/Develope/University/9774'>Answer</a>
+            </td>
+        </tr>
             </table>
 Good luck!
