@@ -12,7 +12,7 @@ files.sort()
 urls = ['https://quera.org/problemset/{}/'.format(item) for item in files]
 
 answers = [
-    'https://github.com/myp79/Quera-Problem-Solution/tree/Develope/Techology/{}'.format(item) for item in files]
+    'https://github.com/myp79/Quera-Problem-Solution/tree/main/Techology/{}'.format(item) for item in files]
 
 with open('README.md', 'w') as f:
     f.write(start_description)
