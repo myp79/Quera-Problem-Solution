@@ -18,10 +18,12 @@ Our problems link are avilable in this table. You can click on problem to redire
                 1
             </td>
             <td align="center">
-                https://quera.org/problemset/60134/
+                https://quera.org/problemset/21205/
             </td>
             <td align="center">
+
                 <a href='https://github.com/myp79/Quera-Problem-Solution/tree/main/Technology/60134'>Answer</a>
+
             </td>
         </tr>
             <tr>
@@ -29,10 +31,12 @@ Our problems link are avilable in this table. You can click on problem to redire
                 2
             </td>
             <td align="center">
-                https://quera.org/problemset/87176/
+                https://quera.org/problemset/60134/
             </td>
             <td align="center">
+
                 <a href='https://github.com/myp79/Quera-Problem-Solution/tree/main/Technology/87176'>Answer</a>
+
             </td>
         </tr>
             <tr>
@@ -40,10 +44,11 @@ Our problems link are avilable in this table. You can click on problem to redire
                 3
             </td>
             <td align="center">
-                https://quera.org/problemset/102250/
+                https://quera.org/problemset/76278/
             </td>
             <td align="center">
                 <a href='https://github.com/myp79/Quera-Problem-Solution/tree/main/Technology/102250'>Answer</a>
+
             </td>
         </tr>
             <tr>
@@ -51,10 +56,12 @@ Our problems link are avilable in this table. You can click on problem to redire
                 4
             </td>
             <td align="center">
-                https://quera.org/problemset/129726/
+                https://quera.org/problemset/87176/
             </td>
             <td align="center">
+
                 <a href='https://github.com/myp79/Quera-Problem-Solution/tree/main/Technology/129726'>Answer</a>
+
             </td>
         </tr>
             <tr>
@@ -62,10 +69,34 @@ Our problems link are avilable in this table. You can click on problem to redire
                 5
             </td>
             <td align="center">
+                https://quera.org/problemset/102250/
+            </td>
+            <td align="center">
+                <a href='https://github.com/myp79/Quera-Problem-Solution/tree/main/Techology/102250'>Answer</a>
+            </td>
+        </tr>
+            <tr>
+            <td align="center">
+                6
+            </td>
+            <td align="center">
+                https://quera.org/problemset/129726/
+            </td>
+            <td align="center">
+                <a href='https://github.com/myp79/Quera-Problem-Solution/tree/main/Techology/129726'>Answer</a>
+            </td>
+        </tr>
+            <tr>
+            <td align="center">
+                7
+            </td>
+            <td align="center">
                 https://quera.org/problemset/129728/
             </td>
             <td align="center">
+
                 <a href='https://github.com/myp79/Quera-Problem-Solution/tree/main/Technology/129728'>Answer</a>
+
             </td>
         </tr>
             </table>
