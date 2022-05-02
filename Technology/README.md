@@ -21,7 +21,7 @@ Our problems link are avilable in this table. You can click on problem to redire
                 https://quera.org/problemset/60134/
             </td>
             <td align="center">
-                <a href='https://github.com/myp79/Quera-Problem-Solution/tree/Develope/Techology/60134'>Answer</a>
+                <a href='https://github.com/myp79/Quera-Problem-Solution/tree/main/Technology/60134'>Answer</a>
             </td>
         </tr>
             <tr>
@@ -32,7 +32,7 @@ Our problems link are avilable in this table. You can click on problem to redire
                 https://quera.org/problemset/87176/
             </td>
             <td align="center">
-                <a href='https://github.com/myp79/Quera-Problem-Solution/tree/Develope/Techology/87176'>Answer</a>
+                <a href='https://github.com/myp79/Quera-Problem-Solution/tree/main/Technology/87176'>Answer</a>
             </td>
         </tr>
             <tr>
@@ -43,7 +43,7 @@ Our problems link are avilable in this table. You can click on problem to redire
                 https://quera.org/problemset/102250/
             </td>
             <td align="center">
-                <a href='https://github.com/myp79/Quera-Problem-Solution/tree/Develope/Techology/102250'>Answer</a>
+                <a href='https://github.com/myp79/Quera-Problem-Solution/tree/main/Technology/102250'>Answer</a>
             </td>
         </tr>
             <tr>
@@ -54,7 +54,7 @@ Our problems link are avilable in this table. You can click on problem to redire
                 https://quera.org/problemset/129726/
             </td>
             <td align="center">
-                <a href='https://github.com/myp79/Quera-Problem-Solution/tree/Develope/Techology/129726'>Answer</a>
+                <a href='https://github.com/myp79/Quera-Problem-Solution/tree/main/Technology/129726'>Answer</a>
             </td>
         </tr>
             <tr>
@@ -65,7 +65,7 @@ Our problems link are avilable in this table. You can click on problem to redire
                 https://quera.org/problemset/129728/
             </td>
             <td align="center">
-                <a href='https://github.com/myp79/Quera-Problem-Solution/tree/Develope/Techology/129728'>Answer</a>
+                <a href='https://github.com/myp79/Quera-Problem-Solution/tree/main/Technology/129728'>Answer</a>
             </td>
         </tr>
             </table>
