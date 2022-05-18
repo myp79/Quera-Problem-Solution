@@ -1278,5 +1278,16 @@ Our problems link are avilable in this table. You can click on problem to redire
                 <a href='https://github.com/myp79/Quera-Problem-Solution/tree/main/Competition/142761'>Answer</a>
             </td>
         </tr>
+            <tr>
+            <td align="center">
+                116
+            </td>
+            <td align="center">
+                https://quera.org/problemset/144082/
+            </td>
+            <td align="center">
+                <a href='https://github.com/myp79/Quera-Problem-Solution/tree/main/Competition/144082'>Answer</a>
+            </td>
+        </tr>
             </table>
 Good luck!
