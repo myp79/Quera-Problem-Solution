@@ -117,6 +117,17 @@ Our problems link are avilable in this table. You can click on problem to redire
                 10
             </td>
             <td align="center">
+                https://quera.org/problemset/9773/
+            </td>
+            <td align="center">
+                <a href='https://github.com/myp79/Quera-Problem-Solution/tree/main/University/9773'>Answer</a>
+            </td>
+        </tr>
+            <tr>
+            <td align="center">
+                11
+            </td>
+            <td align="center">
                 https://quera.org/problemset/9774/
             </td>
             <td align="center">
