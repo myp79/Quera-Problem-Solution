@@ -84,6 +84,17 @@ Our problems link are avilable in this table. You can click on problem to redire
                 7
             </td>
             <td align="center">
+                https://quera.org/problemset/595/
+            </td>
+            <td align="center">
+                <a href='https://github.com/myp79/Quera-Problem-Solution/tree/main/University/595'>Answer</a>
+            </td>
+        </tr>
+            <tr>
+            <td align="center">
+                8
+            </td>
+            <td align="center">
                 https://quera.org/problemset/615/
             </td>
             <td align="center">
@@ -92,7 +103,7 @@ Our problems link are avilable in this table. You can click on problem to redire
         </tr>
             <tr>
             <td align="center">
-                8
+                9
             </td>
             <td align="center">
                 https://quera.org/problemset/616/
@@ -103,7 +114,7 @@ Our problems link are avilable in this table. You can click on problem to redire
         </tr>
             <tr>
             <td align="center">
-                9
+                10
             </td>
             <td align="center">
                 https://quera.org/problemset/617/
@@ -114,7 +125,7 @@ Our problems link are avilable in this table. You can click on problem to redire
         </tr>
             <tr>
             <td align="center">
-                10
+                11
             </td>
             <td align="center">
                 https://quera.org/problemset/618/
@@ -125,7 +136,7 @@ Our problems link are avilable in this table. You can click on problem to redire
         </tr>
             <tr>
             <td align="center">
-                11
+                12
             </td>
             <td align="center">
                 https://quera.org/problemset/649/
@@ -136,7 +147,7 @@ Our problems link are avilable in this table. You can click on problem to redire
         </tr>
             <tr>
             <td align="center">
-                12
+                13
             </td>
             <td align="center">
                 https://quera.org/problemset/9773/
@@ -147,7 +158,7 @@ Our problems link are avilable in this table. You can click on problem to redire
         </tr>
             <tr>
             <td align="center">
-                13
+                14
             </td>
             <td align="center">
                 https://quera.org/problemset/9774/
