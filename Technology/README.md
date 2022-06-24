@@ -51,6 +51,17 @@ Our problems link are avilable in this table. You can click on problem to redire
                 4
             </td>
             <td align="center">
+                https://quera.org/problemset/83360/
+            </td>
+            <td align="center">
+                <a href='https://github.com/myp79/Quera-Problem-Solution/tree/main/Technology/83360'>Answer</a>
+            </td>
+        </tr>
+            <tr>
+            <td align="center">
+                5
+            </td>
+            <td align="center">
                 https://quera.org/problemset/87176/
             </td>
             <td align="center">
@@ -59,7 +70,7 @@ Our problems link are avilable in this table. You can click on problem to redire
         </tr>
             <tr>
             <td align="center">
-                5
+                6
             </td>
             <td align="center">
                 https://quera.org/problemset/102250/
@@ -70,7 +81,7 @@ Our problems link are avilable in this table. You can click on problem to redire
         </tr>
             <tr>
             <td align="center">
-                6
+                7
             </td>
             <td align="center">
                 https://quera.org/problemset/129726/
@@ -81,7 +92,7 @@ Our problems link are avilable in this table. You can click on problem to redire
         </tr>
             <tr>
             <td align="center">
-                7
+                8
             </td>
             <td align="center">
                 https://quera.org/problemset/129728/
