@@ -1,6 +1,8 @@
 import os
 
-os.chdir('./University')
+
+os.chdir(os.path.join(os.getcwd(), 'University'))
+
 start_description = '''# Problems
 Our problems link are avilable in this table. You can click on problem to redirect to page a answer the question but you must login befor click on it.
 

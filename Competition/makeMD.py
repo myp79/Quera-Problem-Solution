@@ -1,6 +1,8 @@
 import os
 
-os.chdir('./Competition')
+
+os.chdir(os.path.join(os.getcwd(), 'Competition'))
+
 start_description = '''# Problems
 Our problems link are avilable in this table. You can click on problem to redirect to page a answer the question but you must login befor click on it.
 
