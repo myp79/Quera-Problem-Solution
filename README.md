@@ -22,5 +22,6 @@ You can add you solution by these rules:
 
 - After commit your solution, run makeMD.py of the question category then commit the change for showing solved problems.
 
+Note: Don't run the makeMD.py with vscode. Only use command `python makeMD.py` in category folder.
 
 Good luck
