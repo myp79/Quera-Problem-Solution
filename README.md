@@ -29,6 +29,7 @@ Note: Don't run the makeMD.py with vscode. Only use command `python makeMD.py` i
 
 ## Same Repositories and contribute
 ---
+- [Quera Solutions in C#](https://github.com/HamidMolareza/QueraProblems)
 - If you have same repository about this content, please add your name here as link.
 
 
