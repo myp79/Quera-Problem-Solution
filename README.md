@@ -1,12 +1,15 @@
 # Quera-Problem-Solution
+---
 
 Solution of Quera's Problems with different programming language and approach.
 
 ## How to use
+---
 
 Each folder is the category of prblems in Quera's problem set. The problem descreption and solution is subfolder that its name is id of the problem. You can find the id of the problem in url of page that problem has shown.
 
 ## How to add solution
+---
 
 You can add you solution by these rules:
 
@@ -24,4 +27,10 @@ You can add you solution by these rules:
 
 Note: Don't run the makeMD.py with vscode. Only use command `python makeMD.py` in category folder.
 
+## Same Repositories and contribute
+---
+- If you have same repository about this content, please add your name here as link.
+
+
+---
 Good luck
