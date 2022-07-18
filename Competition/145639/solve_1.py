@@ -5,3 +5,4 @@ elif x >= f:
     print('exam finished!')
 else:
     print(min(f-x, l))
+# Mohammad YousefiPour - Github.com/myp79
